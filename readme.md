@@ -10,5 +10,5 @@ Features include
 - Adding & deleting expenses
 - Local storage
 
-App built with CSS & Vanilla JS
+App built with CSS & JavaScript
 
