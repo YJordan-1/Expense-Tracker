@@ -5,7 +5,7 @@
 # Application tracks users incoming & outgoing cash flow.
 ## Functionality Includes 
 - Ability to delete user history 
-- Saves user history after closing the browser ( Using Local Storage ) 
+- Saves user history after closing the browser ( Using Local Storage to persist data) 
 
 
 
