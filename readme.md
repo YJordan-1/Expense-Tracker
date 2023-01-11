@@ -16,6 +16,6 @@
 
 ## Lessons Learned
 Utilized ES6 Arrow Functions to make the codebase cleaner & easier read.
-Also utilizing Local Storage to save the users history made the application much more user friendly. 
+Also utilizing Local Storage to save the users history made the application much more user friendly
 
 
